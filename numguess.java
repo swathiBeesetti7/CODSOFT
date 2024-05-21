@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class numguess {
+public class Numguess {
     private static final int min_range = 1;
     private static final int max_range = 100;
     private static final int Total_rounds = 3;
