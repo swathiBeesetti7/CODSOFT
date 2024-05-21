@@ -86,7 +86,7 @@ class ATM{
     }
 }
 
-public class Atm_intr4 {
+public class Task3_Atm {
     public static void main(String[] args) {
         BankAccount userAcc = new BankAccount(1000.0);
         ATM atm = new ATM(userAcc);
