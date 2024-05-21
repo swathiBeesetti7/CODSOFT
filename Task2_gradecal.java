@@ -1,6 +1,6 @@
 import java.util.*;
 import java.lang.*;
-public class Student_grade_calc {
+public class Task2_gradecal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("***STUDENT GRADE CALCULATOR***");
